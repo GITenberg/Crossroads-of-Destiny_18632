@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
 description: Crossroads of destiny -- He walked around the horses -- The mercenaries
   -- Time and time again.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18632#Crossroads-of-Destiny
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-06-20'
 gutenberg_type: Text
